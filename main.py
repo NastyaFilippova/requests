@@ -26,6 +26,3 @@ def get_heroes():
 
 get_heroes()
 
-
-# print(heroes)
-
